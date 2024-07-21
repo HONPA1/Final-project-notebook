@@ -1,0 +1,39 @@
+# Notebook
+## Introduction:
+### In this notebook, Data Science Tools and Ecosystem are summarized.
+## Some of the popular languages that Data Scientists use are: 
+1. Python 
+2. R
+3. SQL
+## Some of the commonly used libraries used by Data Scientists include:
+1. NumPy
+2. Pandas
+3. Matplotlib
+## table of Data Science tools:
+| Tool           | 
+|----------------|
+| Jupyter Notebook|
+| RStudio        | 
+| Tableau        | 
+| Power BI       | 
+| Apache Hadoop  | 
+## Arithmetic expression examples  
+### Below are a few examples of evaluating arithmetic expressions in Python.
+- Add: \(10 + 6 = 16\)
+- Sub: \(25 - 5 = 20\)
+# Multiplying and adding numbers  
+X = 6
+Y = 6
+Z = (X * Y) + (X + Y)
+Z
+# Converting minutes to hours
+minutes = 200
+hours = minutes / 60
+hours
+***Objectives***
+- Learn about the tools and libraries used in Data Science.
+- Understand the basic arithmetic operations.
+- Implement simple code examples in Python.
+- Share the notebook via GitHub.
+## Author
+[SHAHAD ALQURSHI]
